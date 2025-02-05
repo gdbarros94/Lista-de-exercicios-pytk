@@ -238,7 +238,7 @@ Responderei com soluções passo a passo!
 
 3. **Prazo e Dúvidas:**  
    - A lista deve ser concluída em 4 semanas.  
-   - Dúvidas técnicas podem ser enviadas via Classroom ou discutidas no fórum.  
+   - Dúvidas técnicas podem ser enviadas via Classroom, no grupo do Whatsapp ou discutidas durante a aula.  
 
 --- 
 
