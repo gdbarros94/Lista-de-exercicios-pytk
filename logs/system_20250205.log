@@ -1,0 +1,7 @@
+2025-02-05 16:26:17,672 - INFO - Conexão com banco de dados OK
+2025-02-05 16:26:17,673 - ERROR - Tabela Funcionarios não encontrada
+2025-02-05 16:26:17,693 - INFO - Tabela Funcionarios recuperada com sucesso
+2025-02-05 16:26:17,694 - ERROR - Tabela Contratos não encontrada
+2025-02-05 16:26:17,713 - INFO - Tabela Contratos recuperada com sucesso
+2025-02-05 16:26:17,714 - ERROR - Tabela Folha_Pagamento não encontrada
+2025-02-05 16:26:17,732 - INFO - Tabela Folha_Pagamento recuperada com sucesso
